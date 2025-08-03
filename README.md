@@ -4,9 +4,5 @@ Enjoy instant search, favorites, date formatting, and a distraction-free Materia
 Navigation-Compose enables smooth transitions, while Hilt + StateFlow power reactive state handling.
 Everything is local, private, and blazing fast—even with hundreds of notes.
 
-
-
-
-
-https://github.com/user-attachments/assets/1c043942-a857-4f77-b693-2099d0b66c54
+https://github.com/user-attachments/assets/400ef0d6-0bf8-414b-8b76-ad2d826ce5ae
 
